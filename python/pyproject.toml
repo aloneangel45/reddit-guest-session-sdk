@@ -1,0 +1,8 @@
+[project]
+name = "reddit-session-client"
+version = "1.0.0"
+description = "Reddit Guest Session and Anonymous OAuth Generator"
+authors = [{ name = "Aether Protocol Labs", email = "dev@aetherprotocol.io" }]
+dependencies = ["requests>=2.28.0"]
+readme = "README.md"
+requires-python = ">=3.9"
